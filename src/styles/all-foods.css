@@ -1,0 +1,24 @@
+
+
+.search__widget{
+    padding: 7px 20px;
+    border: 1px solid #ede4e4; 
+    border-radius: 5px;
+    margin-left: 200px;
+}
+
+.search__widget input{
+    border: none;
+}
+
+.search__widget input:focus
+{
+    outline: none;
+}
+.search-icon{
+    margin-left: 25px;
+    cursor: pointer;
+}
+/* .icon{
+    background-color: red;
+} */

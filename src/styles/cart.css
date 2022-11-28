@@ -1,0 +1,56 @@
+
+
+th{
+    text-align: center;
+}
+
+.table__head{
+    border: 5px solid #212245;
+}
+
+.price__rupee-icon{
+    font-size: 11px;
+}
+
+.cart__img-box{
+    width: 80px;
+}
+
+.cart__img-box img{
+    width: 100%;
+}
+
+.cart__item-del{
+    cursor: pointer;
+    color: red;
+}
+ /* .cart__page-btn button{
+   border: none;
+   padding: 6px 20px;
+   background: #df2020;
+   color: #fff;
+   border-radius: 5px;
+   font-size: .9rem;
+}  */
+.cart__page-btn a{
+    color: #fff;
+    font-size: 1rem;
+    text-decoration: none;
+}
+.cart__subtotal{
+    color: #df2020;
+    font-size: 1.5rem;
+}
+
+.btn{
+  font-size: 0.1rem;
+}
+
+.btn a:hover{
+    color: #fff;
+}
+
+.inc-btn, .dec-btn{
+    cursor: pointer;
+   
+}

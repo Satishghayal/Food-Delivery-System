@@ -1,0 +1,43 @@
+
+.single__product-content{
+    padding-left: 70px;
+    
+}
+
+.product__price span{
+    font-size: 2rem;
+}
+
+.category{
+    font-weight: 600;
+    color: #212245;
+}
+.category span{
+    padding: 3px 7px;
+}
+
+.tabs h6{
+    cursor: pointer;
+}
+
+.tabs{
+    border-bottom: 1px solid #dfe4e4;
+}
+
+.tabs-content{
+    padding: 30px 0px;
+}
+
+.tabs__active{
+    color: #df2020;
+}
+
+.tabs-content p{
+    line-height: 30px;
+    color: #212245b6;
+    
+}
+
+.img__item{
+    cursor: pointer;
+}

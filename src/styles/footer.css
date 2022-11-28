@@ -1,0 +1,94 @@
+.footer{
+    padding-top: 30px;
+    background: #333;
+    color: #fff;
+    height:  auto;
+}
+
+.footer__logo img{
+        width: calc(100% - 80%);
+        margin-bottom: 5px;
+}
+.footer__logo h5{
+    font-weight: 600;
+    font-size: 1rem;
+    margin-bottom: 15px;
+}
+.footer__logo p{
+        font-size: 0.9rem;
+        color: #fff;
+        line-height: 28px;
+}
+.delivery__time-item{
+    background: transparent !important;
+}
+.delivery__time-item span{
+    font-weight: 600;
+    font-size: 1rem;
+    color: #fff;
+    background: transparent;
+}
+.delivery__time-item p{
+    color: #fff;
+}
+.footer__title{
+    font-size: 1.1rem;
+    color: #fff;
+    font-weight: 600;
+}
+.news__latter{
+    padding: 5px;
+    border: 1px solid #fff;
+    border-radius: 5px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.news__latter input{
+    background: transparent;
+    border: none;
+    outline: none;
+   
+}
+.news__latter span{
+    background: pink;
+    padding: 5px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+    
+}
+.news__latter span .i{
+    color: #212245;
+    font-size: 22px;
+    
+}
+.news__latter input:focus{
+    outline: none;
+}
+.news__latter input::placeholder{
+    color: #fff;
+}
+.social_links span .sl{
+    font-size: 20px;
+    color:#fff;
+    border-radius: 50%;
+}
+.social_links span #wh{
+    color: skyblue;
+}
+.social_links span #li,#fb{
+    color: blue;    
+}
+.social_links span #in{
+    color: palevioletred;
+}
+.copyrighgt__text{
+    font-size: 1rem;
+    color: #fff;
+    margin-top: -50px;
+    
+}
+
+.social_links{
+    margin-top: -50px;
+}

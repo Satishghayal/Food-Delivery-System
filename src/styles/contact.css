@@ -1,0 +1,100 @@
+
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.head{
+    background-color: #fde4e4;
+}
+.roww{
+    background-color: white;
+    border-radius: 30px;
+    box-shadow: 12px 12px 22px;
+    width: 80%;    
+}
+.login{
+    margin-left: 250px;
+    margin-bottom: 30px;
+}
+.login h1{
+    font-weight: 600;
+}
+.log__btnn{
+   
+    padding: 5px 30px;
+    margin-bottom: 30px;
+    border: none;
+    border-radius: 5px;
+    background-color: #fde4e4;
+    font-weight: 700;
+    transition: 1.5s;
+}
+.log__btnn:active{
+    transform: scale(0.1);
+}
+form .text__filedd{  
+    
+    margin: 10px 0;   
+    margin-bottom: 5px;
+} 
+.text__filedd input{
+    padding: 0 0 0 5px;
+    margin-bottom: 2px;
+    font-size: 16px;
+    border: none;
+    background: none;
+    outline: none;
+    border-bottom: 2px solid #fde4e4;  
+    font-weight: 500; 
+}
+
+.text__filedd span{
+    margin-left: 0px;
+}
+.form{
+    margin-top: 30px;
+}
+.area{
+    font-weight: 500;
+    border: 1px solid #fde4e4 ;
+    outline: none;
+    padding: 0 0 0 5px;
+}
+.icon__list{
+    padding: 10px;
+}
+.icon__list .ii,.ww,.ll,.ff{
+    margin: 5px;
+    
+}
+.ii,.ww,.ll,.ff{
+    cursor: pointer;
+    font-size: 20px;
+    margin-right: 8px;
+}
+.ii{
+    color: red;
+}
+.ff{
+    color: blue;
+}
+.ll{
+    color: dodgerblue;
+}
+.ww{
+    color: palegreen;
+}
+.copyright{
+    background-color: lightblue;
+    border-bottom-right-radius: 30px;
+}
+.copyright span{
+    font-size: 20px;
+}
+.container__bio{
+    background-color: white;
+    border-radius: 30px;
+    box-shadow: 12px 12px 22px;
+    width: 100%;
+}
